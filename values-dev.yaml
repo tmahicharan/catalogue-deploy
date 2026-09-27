@@ -1,5 +1,2 @@
-owner:
-  imageRepo: 677673473487.dkr.ecr.us-east-1.amazonaws.com/roboshop/catalogue
-  imageversion: IMAGE_VERSION
 mongo:
   url: "mongodb://mongodb:27017/catalogue"
